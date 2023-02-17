@@ -79,4 +79,8 @@
         height: 320px;
         
     }
+
+    .app__aboutus-content_knife img {
+        height: 500px;
+    }
 }
